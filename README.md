@@ -1,19 +1,18 @@
 # Smart Traffic Control System using AI
 
-This project simulates an intelligent traffic signal control system.
+## Overview
+This project simulates an intelligent traffic signal control system using AI-based logic to reduce congestion and optimize traffic flow.
 
 ## Features
-- Smart Mode (AI-based heuristic selection)
-- Static Mode (Fixed rotation)
-- Emergency Vehicle Priority
-- Traffic Visualization using Matplotlib
+- Adaptive traffic signal timing
+- Simulation of vehicle density
+- Comparison of static vs dynamic signals
+- Performance metrics calculation
 
-## Technologies Used
+## Tech Stack
 - Python
+- NumPy
 - Matplotlib
 
-## How It Works
-The system generates random traffic density for four roads.
-It selects the road with highest congestion using heuristic logic.
-If an emergency vehicle is detected, that road gets priority.
-Traffic data is visualized using a bar chart.
+## How to Run
+python traffic_control.py
