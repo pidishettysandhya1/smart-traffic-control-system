@@ -23,10 +23,10 @@ The system models traffic conditions and dynamically adjusts signal timings base
 ## How to Run
 
 1. Install required libraries:
-
+pip install numpy matplotlib
 
 2. Run the program:
-
+python traffic.py
 
 3. The simulation will display traffic signal behavior and performance visualization.
 
