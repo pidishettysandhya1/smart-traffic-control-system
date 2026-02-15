@@ -25,8 +25,15 @@ The system models traffic conditions and dynamically adjusts signal timings base
 1. Install required libraries:
 
 
+2. Run the program:
+
+
+3. The simulation will display traffic signal behavior and performance visualization.
+
 ## 📷 Sample Output
 
 ![Traffic Simulation Screenshot](Screenshot_traffic.png)
+
+## Project Structure
 
 
