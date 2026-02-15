@@ -16,3 +16,7 @@ This project simulates an intelligent traffic signal control system using AI-bas
 
 ## How to Run
 python traffic_control.py
+
+## 📷 Sample Output
+
+![Traffic Simulation Screenshot](Screenshot_traffic.png)
