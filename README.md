@@ -36,4 +36,11 @@ The system models traffic conditions and dynamically adjusts signal timings base
 
 ## Project Structure
 
+smart-traffic-control-system/
+│
+├── traffic_control.py          # Main simulation script
+├── Screenshot_traffic.png     # Sample output screenshot
+└── README.md                  # Project documentation
+
+
 
